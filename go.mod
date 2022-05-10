@@ -1,4 +1,4 @@
-module goint
+module github.com/majakubiec/goint
 
 go 1.18
 
